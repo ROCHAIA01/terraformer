@@ -53,9 +53,8 @@ require (
 	google.golang.org/api v0.32.0
 	google.golang.org/genproto v0.0.0-20200921151605-7abf4a1a14d5
 	gopkg.in/jarcoal/httpmock.v1 v1.0.0-00010101000000-000000000000 // indirect
-	k8s.io/apimachinery v0.17.5
-	k8s.io/client-go v0.17.5
-	k8s.io/utils v0.0.0-20191218082557-f07c713de883 // indirect
+	k8s.io/apimachinery v0.19.4
+	k8s.io/client-go v0.19.4
 )
 
 replace gopkg.in/jarcoal/httpmock.v1 => github.com/jarcoal/httpmock v1.0.5
